@@ -1,0 +1,6 @@
+[submodule "razor"]
+	path = razor
+	url = https://github.com/adamdusty/razor.git
+[submodule "echidna"]
+	path = echidna
+	url = https://github.com/adamdusty/echidna.git
