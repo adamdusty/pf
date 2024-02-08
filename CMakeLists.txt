@@ -11,5 +11,7 @@ if(BUILD_TESTING)
     enable_testing()
 endif()
 
+add_subdirectory(adizzle)
+add_subdirectory(admat)
 add_subdirectory(echidna)
 add_subdirectory(razor)

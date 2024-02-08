@@ -4,3 +4,9 @@
 [submodule "echidna"]
 	path = echidna
 	url = https://github.com/adamdusty/echidna.git
+[submodule "admat"]
+	path = admat
+	url = https://github.com/adamdusty/admat.git
+[submodule "adizzle"]
+	path = adizzle
+	url = https://github.com/adamdusty/adizzle.git
