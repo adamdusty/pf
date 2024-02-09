@@ -10,3 +10,6 @@
 [submodule "adizzle"]
 	path = adizzle
 	url = https://github.com/adamdusty/adizzle.git
+[submodule "seed"]
+	path = seed
+	url = https://github.com/adamdusty/pf-seed.git
