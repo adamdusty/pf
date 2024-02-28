@@ -1,3 +1,5 @@
+set windows-shell := ["pwsh.exe", "-NoLogo", "-Command"]
+
 alias cbt := configure-build-test
 alias bt := build-test
 
