@@ -1,15 +1,20 @@
 [submodule "razor"]
 	path = razor
 	url = https://github.com/adamdusty/razor.git
+	update = merge
 [submodule "echidna"]
 	path = echidna
 	url = https://github.com/adamdusty/echidna.git
+	update = merge
 [submodule "admat"]
 	path = admat
 	url = https://github.com/adamdusty/admat.git
+	update = merge
 [submodule "adizzle"]
 	path = adizzle
 	url = https://github.com/adamdusty/adizzle.git
+	update = merge
 [submodule "seed"]
 	path = seed
 	url = https://github.com/adamdusty/pf-seed.git
+	update = merge
